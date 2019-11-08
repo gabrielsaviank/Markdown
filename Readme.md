@@ -1,4 +1,4 @@
-#GIT Course
+# GIT Course
 
 
 This is a repository test to teach how GIT works
@@ -8,5 +8,5 @@ Do you liked the course? Want more? Help us with a donation, even a coffee is we
 # github-course 
 
 
-UK is an interesting country 
+> UK is an interesting country 
 

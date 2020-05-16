@@ -1,4 +1,4 @@
-# An introduction to GIT
+# An introduction to Markdown Language
 
 
 This is my first GIT repository, just to test some things. 
